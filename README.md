@@ -1,8 +1,4 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Keroles+Youssef!+👨‍💻;" />
-</div>
-
-<br>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Keroles Youssef </h1>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Kerolos-Youssef&label=Profile%20views&color=0e75b6&style=plastic" alt="Keroles" /> 
