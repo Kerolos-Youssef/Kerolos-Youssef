@@ -26,12 +26,12 @@ I'm a Flutter Developer with over two years of experience. I'm passionate about 
 
 ## 🔥 Skills  
 ### 💻 Technical Skills  
-- **Languages:** Dart, C++, Java (Intermediate), Python (Basics), C# (Basics)  
-- **Frameworks & Tools:** Flutter, Firebase, SQFLite, REST APIs, GraphQL  
-- **State Management:** BLoC, Cubit  
-- **Software Principles:** SOLID, Design Patterns, OOP, Data Structures & Algorithms  
-- **Version Control:** GitHub, GitLab  
-- **App Deployment:** Google Play Store & App Store  
+- 🚀 **Languages:** ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+- 📱 **Frameworks & Tools:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) SQFLite, REST APIs, GraphQL  
+- 🔄 **State Management:** BLoC, Cubit  
+- 🏗️ **Software Principles:** SOLID, Design Patterns, OOP, Data Structures & Algorithms  
+- 🔧 **Version Control:** ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)  
+- 📦 **App Deployment:** ![Google Play Store](https://img.shields.io/badge/Play%20Store-414141?logo=google-play&logoColor=white) ![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=app-store&logoColor=white)  
 
 ### 🎯 Soft Skills  
 - Problem Solver & Critical Thinker  
