@@ -16,6 +16,14 @@
 I'm a Flutter Developer with over two years of experience. I'm passionate about building high-quality, scalable, and user-friendly mobile applications. My expertise lies in clean architecture, state management, API integration, and app publishing on the Google Play Store and App Store.  
 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
+	<a href="mailto:kerolesyoussef028@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://wa.me/201555567439"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://linkedin.com/in/keroles-youssef"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/Kerolos-Youssef"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>	
+</p>
+
 ## 📫 Let's Connect!  
 - 📱 **WhatsApp:** [📞 +201555567439](https://wa.me/201555567439)
 - ✉️ **Email:** kerolesyoussef028@gmail.com
