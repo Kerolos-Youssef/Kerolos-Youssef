@@ -24,13 +24,6 @@ I'm a Flutter Developer with over two years of experience. I'm passionate about 
 	<a href="https://github.com/Kerolos-Youssef"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>	
 </p>
 
-## 📫 Let's Connect!  
-- 📱 **WhatsApp:** [📞 +201555567439](https://wa.me/201555567439)
-- ✉️ **Email:** kerolesyoussef028@gmail.com
-- 💼 **LinkedIn:** [Keroles Youssef](https://linkedin.com/in/keroles-youssef)  
-- 🏆 **GitHub:** [Kerolos-Youssef](https://github.com/Kerolos-Youssef)  
-
-
 ## 🔥 Skills  
 ### 💻 Technical Skills  
 - **Languages:** Dart, C++, Java (Intermediate), Python (Basics), C# (Basics)  
