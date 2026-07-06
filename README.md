@@ -59,8 +59,7 @@ In this project, I created a network marketing application that seamlessly integ
 
 ### 🔹 CPS-HR  
 This project was developed for [Continental Palace School](https://www.cps-education.com/) to streamline the management of teacher attendance, departures, early leave permissions, vacation requests, and tracking late arrivals. Users are provided credentials by the admin for accessing the application, restricted to a single device login unless authorized otherwise. Daily attendance and departure are recorded using generated barcodes. Employing clean architecture and the MVVM design pattern ensured superior code organization, readability, and maintainability. I further enhanced performance through optimized state management using Cubit and dependency injection techniques.
-
-[![Android](https://img.shields.io/badge/Android-PlayStore-green)](https://play.google.com/store/apps/details?id=com.cps.hr)  
+<!-- [![Android](https://img.shields.io/badge/Android-PlayStore-green)](https://play.google.com/store/apps/details?id=com.cps.hr)  --> 
 [![iOS](https://img.shields.io/badge/iOS-AppStore-blue)](https://apps.apple.com/app/cps-hr/id6737413195)  
 
 ## 📊 Work Experience  
