@@ -64,7 +64,8 @@ This project was developed for [Continental Palace School](https://www.cps-educa
 [![iOS](https://img.shields.io/badge/iOS-AppStore-blue)](https://apps.apple.com/app/cps-hr/id6737413195)  
 
 ## 📊 Work Experience  
-- **Flutter Developer, Aqarmap** *(03/2024 – Present)*  
+- **Senior Flutter Developer, Wilzy** *(10/2025 – Present)*  
+- **Flutter Developer, Aqarmap** *(03/2024 – 09/2025)*  
 - **Flutter Developer, White Corp** *(02/2023 – 02/2024)*  
 - **Flutter Developer, Active4Web** *(04/2022 – 02/2023)*  
 - **Trainee, Alex Apps** *(01/2022 – 02/2022)*  
